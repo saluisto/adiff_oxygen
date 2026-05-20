@@ -1,1 +1,2 @@
-[oxygen_static.html](https://github.com/user-attachments/files/28046437/oxygen_static.html)
+
+[oxygen_model_static.pdf](https://github.com/user-attachments/files/28046563/oxygen_model_static.pdf)
